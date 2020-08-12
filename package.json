@@ -1,0 +1,6 @@
+{
+    "name": "wsdl-parse-nodejs",
+    "version": "0.0.1",
+    "description": "test",
+    "main": "./app.js"
+}
